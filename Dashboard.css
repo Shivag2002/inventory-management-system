@@ -1,0 +1,14 @@
+
+#dashboard{ height: 100%; width: 100% ; position: absolute; background-color: blue;margin: auto;}
+#projectname{height: 70px; width: 100%; position: absolute; background-color: navy; font-size: xx-large}
+.logout{background-color: yellow; position: absolute; margin-top: -95px;margin-left: 1000px; font-size: x-large;}
+.logo1{margin-left: 40px;}
+.name{margin-top:-55px ; margin-left: 140px; font-size: 48px; color: whitesmoke;}
+
+#datetime{height: 25px; width: 100%; position: absolute; background-color: darkslategray; margin-top: 70px;}
+.welcome{margin-top: -1px; color: wheat; font-size: 20px;margin-left: 270px;}
+.date{margin-left:700px ;margin-top:-40px; }
+.time{margin-left: 900px; margin-top:-34px ;}
+
+#menu{height: 450px; width: 230px; position: absolute; background-color: whitesmoke;margin-top: 95px;}
+#totalentry{height: 521px; width:1119px; position: absolute; background-color:white;margin-top: 95px;margin-left: 230px;}
